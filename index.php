@@ -29,7 +29,7 @@ $registre = "";
 
 for ($i=0; $i < 200; $i++) { 
 	
-	$registre = $registre . fgets($monfichier);
+$registre = $registre . fgets($monfichier);
 }
 
 $ip_text = $ip . " le " . $date . " à " . $heure . ";\r\n" . $registre;
