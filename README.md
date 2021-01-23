@@ -1,6 +1,7 @@
 # IP-site-php
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0fd5b7bca5c443f7aabd3e72810431bc)](https://app.codacy.com/gh/DoctorPok42/IP-site-php?utm_source=github.com&utm_medium=referral&utm_content=DoctorPok42/IP-site-php&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0fd5b7bca5c443f7aabd3e72810431bc)](https://app.codacy.com/gh/DoctorPok42/IP-site-php?utm_source=github.com&utm_medium=referral&utm_content=DoctorPok42/IP-site-php&utm_campaign=Badge_Grade_Settings)
 
 Récupérer l'ip d'un visiteur sur votre site, l'enregistrer puis la traiter
 
