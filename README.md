@@ -10,7 +10,7 @@ Ensuite le fichier ip.php va lire les ip qui se trouvent dans le fichier ip.txt 
 <hr>
 Pour ce faire vous devez télécharger les 2 fichier sur votre serveur et modifier là où vous voulez stocker les ip :
 
- - modifiez la ligne **26** du fichier index
- - modifiez la ligne **7** du fichier ip
+- modifiez la ligne **26** du fichier index
+- modifiez la ligne **7** du fichier ip
  
  Pour finir vous devez modifier la ligne **43** du fichier index vers la page d'accueil de votre site.
